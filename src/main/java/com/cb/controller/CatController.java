@@ -22,7 +22,6 @@ public class CatController {
     {
         return catService.SelectCat(cat);
 
-
     }
 
 
